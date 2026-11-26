@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/features.py
+!/c04.py
+!/c05m2.py
